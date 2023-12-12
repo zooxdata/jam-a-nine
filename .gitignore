@@ -1,2 +1,4 @@
 .env
 testing.py
+venv
+venv/
